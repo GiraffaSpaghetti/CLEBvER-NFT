@@ -10,6 +10,8 @@
 	font-size: 3rem;
 	color: white;
 	filter: drop-shadow(7px 6px 3px #000000);
+	position: relative;
+	top: 40px;
 	
 }
 
@@ -18,6 +20,8 @@
 	font-size: 2rem;
 	color: white;
 	filter: drop-shadow(6px 5px 2px #000000);
+	position: relative;
+	top: 41px;
 }
 
 #texto{
